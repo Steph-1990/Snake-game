@@ -1,0 +1,5 @@
+C:\Users\steph\Desktop\Nouveau dossier\MiniJeu.exe
+C:\Users\steph\Desktop\Nouveau dossier\MiniJeu.dll
+C:\Users\steph\Desktop\Nouveau dossier\MiniJeu.deps.json
+C:\Users\steph\Desktop\Nouveau dossier\MiniJeu.runtimeconfig.json
+C:\Users\steph\Desktop\Nouveau dossier\MiniJeu.pdb

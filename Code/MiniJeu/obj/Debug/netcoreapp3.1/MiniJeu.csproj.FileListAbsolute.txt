@@ -1,0 +1,14 @@
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\bin\Debug\netcoreapp3.1\MiniJeu.exe
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\bin\Debug\netcoreapp3.1\MiniJeu.deps.json
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\bin\Debug\netcoreapp3.1\MiniJeu.runtimeconfig.json
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\bin\Debug\netcoreapp3.1\MiniJeu.runtimeconfig.dev.json
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\bin\Debug\netcoreapp3.1\MiniJeu.dll
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\bin\Debug\netcoreapp3.1\MiniJeu.pdb
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\obj\Debug\netcoreapp3.1\MiniJeu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\obj\Debug\netcoreapp3.1\MiniJeu.AssemblyInfoInputs.cache
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\obj\Debug\netcoreapp3.1\MiniJeu.AssemblyInfo.cs
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\obj\Debug\netcoreapp3.1\MiniJeu.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\obj\Debug\netcoreapp3.1\MiniJeu.dll
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\obj\Debug\netcoreapp3.1\MiniJeu.pdb
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\obj\Debug\netcoreapp3.1\MiniJeu.genruntimeconfig.cache
+C:\Users\steph\Desktop\Cours_C#\Exercices\MiniJeu\MiniJeu\obj\Debug\netcoreapp3.1\MiniJeu.csproj.AssemblyReference.cache
